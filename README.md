@@ -63,7 +63,6 @@ Passo 2:
 Logo, vai aparecer a seguinte tela:
 
 <br>
-<br>
 
 ![PASSO 2](Imagens/foto2.PNG)
 
@@ -73,12 +72,12 @@ Você irá selecionar a última opção;
 Passo 3:
 </h1>
 <h3>
-Após selecionar a última opção, você terá a oportunidade de selecionar as configurações de linguagem e teclado que você deseja, basta apertar ENTER na seguinte opção:
+Após selecionar a última opção, você terá a oportunidade de selecionar as configurações de linguagem e teclado que você deseja, basta apertar ENTER na opção "lang....":
 
 <br>
 <br>
 
-![Passo 3](Imagens/foto3.PNG)
+![passo 4](Imagens/foto7.PNG)
 
 Após fazer isso, você chegará na seguinte tela: 
 
