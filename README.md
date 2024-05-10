@@ -44,7 +44,7 @@ Após você iniciar o sistema operacional, vai aparecer na tela um aviso com a s
 
 <br>
 
-![PASSO 1](foto1.PNG)
+![alt text](Imagens/foto1.PNG)
 
 Basta apertar a tecla ENTER e continuar com o processo;
 </h3>
@@ -56,7 +56,7 @@ Logo, vai aparecer a seguinte tela:
 
 <br>
 
-![PASSO 2](foto2.PNG)
+![PASSO 2](Imagens/foto2.PNG)
 
 Você irá selecionar a última opção;
 </h3>
@@ -68,25 +68,25 @@ Após selecionar a última opção, você terá a oportunidade de selecionar as 
 
 <br>
 
-![Passo 3](foto5.PNG)
+![Passo 3](Imagens/foto3.PNG)
 
 Após fazer isso, você chegará na seguinte tela: 
 
 <br>
 
-![Passo 3](foto6.PNG)
+![Passo 3](Imagens/foto6.PNG)
 
 Selecione com ENTER as configurações que deseja, por exemplo, se selecionar a linguagem:
 
 <br>
 
-![Passo 3](foto4.PNG)
+![Passo 3](Imagens/foto4.PNG)
 
 Após arrumar suas configurações da sua preferência, retorne, basta ir na última opção e clicar ENTER:
 
 <br>
 
-![passo 3](foto6-1.PNG)
+![passo 3](Imagens/foto6-1.PNG)
 </h3>
 
 <h1>Passo 4 </h1>
@@ -97,7 +97,7 @@ Após retornar, você voltará para a página que estava anteriormente, e vamos 
 
 <br>
 
-![passo 4](foto7.PNG)
+![passo 4](Imagens/foto7.PNG)
 
 <h1>Passo 5</h1>
 <h3>
@@ -105,13 +105,13 @@ Após fazer isso, você chegará até a área de trabalho do Sistema Operacional
 
 <br>
 
-![passo 5](foto8.PNG)
+![passo 5](Imagens/foto8.PNG)
 
 Com o mouse, selecione "Instalar o MX Linux";
 
 <br>
 
-![passo 5](foto9-1.PNG)
+![passo 5](Imagens/foto9-1.PNG)
 
 </h3>
 <h1>Passo 6 </h1>
@@ -120,7 +120,7 @@ Personalize como você deseja que o disco seja usado;
 
 <br>
 
-![passo 6](foto10.PNG)
+![passo 6](Imagens/foto10.PNG)
 
 Após isso, clique em *PRÓXIMO*;
 </h3>
@@ -130,7 +130,7 @@ Confirme o início da instalação;
 
 <br>
 
-![passo 7](foto11.PNG)
+![passo 7](Imagens/foto11.PNG)
 </h3>
 <h1>Passo 8</h1>
 <h3>
@@ -138,7 +138,7 @@ Digite o nome que você quer que a máquina tenha e avance clicando em Próximo;
 
 <br>
 
-![passo 8](foto12.PNG)
+![passo 8](Imagens/foto12.PNG)
 
 </h3>
 <h1>Passo 9</h1>
@@ -146,14 +146,14 @@ Digite o nome que você quer que a máquina tenha e avance clicando em Próximo;
 
 <br>
 
-![passo 9](foto13.PNG)
+![passo 9](Imagens/foto13.PNG)
 <h1>Passo 10</h1>
 <h3>
 Após fazer isso, digite o nome de usuário e a senha. Você também pode configurar a senha de "Root" (administrador). Existe também a possibilidade de outras configurações, como iniciar sem precisar de senha e/ou salvar as alterações:
 
 <br>
 
-![passo 10](foto14.PNG)
+![passo 10](Imagens/foto14.PNG)
 </h3>
 <h1>Passo 11</h1>
 <h3>
@@ -161,7 +161,7 @@ finalize a instalação, clicando em "Finalizar"
 
 <br>
 
-![passo 11](foto15.PNG)
+![passo 11](Imagens/foto15.PNG)
 </h3>
 <h1>Passo 12</h1>
 <h3>
@@ -169,12 +169,12 @@ Clique "Enter" ao aparecer a seguinte tela:
 
 <br>
 
-![passo 12](foto16.PNG)
+![passo 12](Imagens/foto16.PNG)
 </h3>
 
 <br>
 
-![alt text](foto17.PNG)
+![alt text](Imagens/foto17.PNG)
 
 <div align="center">
 <h2>
