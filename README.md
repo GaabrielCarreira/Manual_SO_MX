@@ -63,6 +63,7 @@ Passo 2:
 Logo, vai aparecer a seguinte tela:
 
 <br>
+<br>
 
 ![PASSO 2](Imagens/foto2.PNG)
 
@@ -74,6 +75,7 @@ Passo 3:
 <h3>
 Após selecionar a última opção, você terá a oportunidade de selecionar as configurações de linguagem e teclado que você deseja, basta apertar ENTER na seguinte opção:
 
+<br>
 <br>
 
 ![Passo 3](Imagens/foto3.PNG)
@@ -117,6 +119,7 @@ Após fazer isso, você chegará até a área de trabalho do Sistema Operacional
 
 Com o mouse, selecione "Instalar o MX Linux";
 
+<br>
 <br>
 
 ![passo 5](Imagens/foto9.PNG)
