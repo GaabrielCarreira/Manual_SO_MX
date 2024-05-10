@@ -20,16 +20,24 @@ Logo do Sistema Operacional MX
 
 </div> 
 
-<div style="text-align: justify">
+
+<div align="center">
 
 ## Principais recursos do MX:
+
+</div>
+<div style="text-align: justify">
+
 ### – Ferramentas personalizadas: O MX Linux possui várias ferramentas personalizadas desenvolvidas pela equipe do MX Linux para facilitar a configuração do sistema e fornecer recursos adicionais. Isso inclui o MX Installer, o MX Updater, o MX Tools e o MX Package Installer;
 ### – Estabilidade e segurança: O MX Linux é baseado no Debian Stable, uma versão do Debian conhecida por sua estabilidade e pela atenção dada à segurança. Isso garante que o sistema operacional seja confiável e seguro;
 ### – Facilidade de uso: O MX Linux é projetado para ser amigável e intuitivo, com uma interface familiar e uma configuração simplificada para facilitar a instalação e o uso;
 ### – Compatibilidade com hardware: O MX Linux é compatível com uma ampla variedade de hardware, desde computadores antigos até sistemas mais modernos;
 ---
+</div> 
 
 <div align="center">
+
+## [Site Oficial MX Linux](https://mxlinux.org/)
 
 # Manual Passo a Passo
 
