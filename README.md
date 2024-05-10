@@ -119,7 +119,7 @@ Com o mouse, selecione "Instalar o MX Linux";
 
 <br>
 
-![passo 5](Imagens/foto9-1.PNG)
+![passo 5](Imagens/foto9.PNG)
 
 </h3>
 <h1>Passo 6 </h1>
