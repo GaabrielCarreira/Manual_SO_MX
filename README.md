@@ -94,7 +94,7 @@ Após arrumar suas configurações da sua preferência, retorne, basta ir na úl
 
 <br>
 
-![passo 3](Imagens/foto6-1.PNG)
+![passo 3](Imagens/foto6.PNG)
 </h3>
 
 <h1>Passo 4 </h1>
